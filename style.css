@@ -1,0 +1,25 @@
+body{
+	background-color:snow;
+
+}
+
+h1{
+	color:red;
+	text-align:center;
+}
+#firstheading{
+	color:red;
+	background-color:lightcyan;
+
+}
+#secondheading{
+	color:purple;
+	text-align:left;
+}
+h2{
+	color:green;
+	text-align:left;	
+}
+.test{
+	color:chocolate;
+}
